@@ -1,6 +1,6 @@
 # ShareIT
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/KaZe-Python/ShareIT/blob/master/LICENSE)
 
 ## Description
 ShareIT is a service that lets you share a ride with a person that's going to your same location.
