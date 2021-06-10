@@ -1,0 +1,25 @@
+{
+  "name": "shareit.com",
+  "version": "1.0.0",
+  "description": "Website for F.A.Q ecc",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaZe-Python/ShareIT.git"
+  },
+  "author": "Bruno Pio Cosentini <brunopio@cosentini.it>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KaZe-Python/ShareIT/issues"
+  },
+  "homepage": "https://github.com/KaZe-Python/ShareIT#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7"
+  }
+}
