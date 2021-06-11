@@ -4,6 +4,7 @@ const path = require('path');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+app.use(express.static(path.join(__dirname, '/pages/')));
 app.use(morgan('dev'));
 
 app.get('/', (req,res) => {
